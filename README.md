@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Picogeek06 (Gopal krishna Mishra)
+- 👋 Hi, I’m Gopal Krishna Mishra (@Picogeek06)
 - 👀 I’m interested in anything interesting
 - 🌱 I’m currently learning Android & Machine Learning
 - 💞️ I’m looking to collaborate on cool Android Projects
